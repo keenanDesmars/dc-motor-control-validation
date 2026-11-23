@@ -14,6 +14,14 @@ Developed a Python-based automated validation framework to execute repeatable sp
 - External DC power supply
 - USB serial connection to host PC
 
+## Hardware Setup
+
+The experimental setup consists of an Arduino Uno, a DC geared
+motor with an incremental encoder, a PWM motor driver, and an
+external power supply.
+
+![DC Motor PID Hardware Setup](hardware/setup.jpg)
+
 ## Control System
 
 The embedded controller implements proportional-integral-derivative (PID) speed regulation:
