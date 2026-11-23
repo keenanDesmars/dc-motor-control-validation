@@ -50,7 +50,7 @@ The controller was evaluated at four speed setpoints: 25, 50, 75, and 100 RPM.
 
 The measured responses demonstrated stable tracking, minimal visible overshoot, and no sustained PWM saturation during the tested operating conditions.
 
-![Motor PID validation results](results/step_response.png)
+![Motor PID validation results](results/pid_test_20261123_152759-Ki=1.5.png)
 
 ## Running the Tests
 
