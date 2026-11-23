@@ -1,0 +1,2 @@
+status,target_rpm,rise_time_s,overshoot_pct,settling_time_s,steady_state_error_rpm,saturation_pct,samples,phase
+ok,50.0,4.390999999974156,0.0,,3.5006249999999994,0.0,160,step_1
